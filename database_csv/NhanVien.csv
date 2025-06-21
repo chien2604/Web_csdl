@@ -1,0 +1,32 @@
+﻿MaNV,TenNV,MaCH,NgaySinh,GioiTinh,Email,SDT,ThanhPho,Quan,Duong,SoNha
+NV001CH001,Nguyễn Văn An,CH001,1995-03-15,0,an.nv@email.com,0911223344,TP. Hồ Chí Minh,Quận 10,Lý Thường Kiệt,12A
+NV001CH002,Vũ Thị Hà,CH002,1996-09-18,1,ha.vt@email.com,0966778899,TP. Hồ Chí Minh,Tân Phú,Tân Kỳ Tân Quý,11F
+NV001CH003,Trịnh Văn Phúc,CH003,1998-03-08,0,phuc.tv@email.com,0945566778,TP. Hồ Chí Minh,Quận 1,Nguyễn Huệ,99O
+NV001CH006,Đinh Văn Việt,CH006,1995-08-20,0,viet.dv@email.com,0901234501,Hà Nội,Cầu Giấy,Xuân Thủy,666U
+NV001CH008,Phan Thị Lan,CH008,1998-11-03,1,lan.pt@email.com,0904567890,Đà Nẵng,Hải Châu,Bạch Đằng,156E5
+NV002CH001,Trần Thị Bình,CH001,1998-07-20,1,binh.tt@email.com,0922334455,TP. Hồ Chí Minh,Quận 10,Tô Hiến Thành,34B
+NV002CH002,Đỗ Xuân Giang,CH002,1999-12-05,0,giang.dx@email.com,0977889900,TP. Hồ Chí Minh,Tân Phú,Gò Dầu,22G
+NV002CH003,Võ Thị Quỳnh,CH003,1999-07-15,1,quynh.vt@email.com,0956677889,TP. Hồ Chí Minh,Quận 3,Pasteur,111P
+NV002CH006,Hoàng Thị Xuân,CH006,1998-12-10,1,xuan.ht@email.com,0912345012,Hà Nội,Cầu Giấy,Trần Quốc Hoàn,777V
+NV002CH008,Tôn Văn Minh,CH008,1995-04-12,0,minh.tv@email.com,0915678901,Đà Nẵng,Thanh Khê,Điện Biên Phủ,167F6
+NV003CH001,Lê Minh Cường,CH001,1992-11-01,0,cuong.lm@email.com,0933445566,TP. Hồ Chí Minh,Tân Bình,Hoàng Văn Thụ,56C
+NV003CH002,Bùi Minh Hiếu,CH002,1994-04-30,0,hieu.bm@email.com,0988990011,TP. Hồ Chí Minh,Bình Tân,Tên Lửa,33H
+NV003CH003,Nguyễn Minh Sang,CH003,1996-11-29,0,sang.nm@email.com,0967788990,TP. Hồ Chí Minh,Quận 1,Lê Lợi,222Q
+NV003CH006,Lưu Minh Ý,CH006,1993-05-01,0,y.lm@email.com,0923450123,Hà Nội,Ba Đình,Đội Cấn,888X
+NV003CH008,Vương Thị Nga,CH008,2000-08-28,1,nga.vt@email.com,0926789012,Đà Nẵng,Sơn Trà,Võ Nguyên Giáp,178G7
+NV004CH001,Phạm Thu Dung,CH001,2000-01-25,1,dung.pt@email.com,0944556677,TP. Hồ Chí Minh,Quận 11,Lãnh Binh Thăng,78D
+NV004CH002,Ngô Thị Kim,CH002,2001-08-12,1,kim.nt@email.com,0999001122,TP. Hồ Chí Minh,Tân Phú,Lê Trọng Tấn,44I
+NV004CH003,Trần Thị Thảo,CH003,2000-04-02,1,thao.tt@email.com,0978899001,TP. Hồ Chí Minh,Quận 4,Khánh Hội,333R
+NV004CH006,Mạc Thị Anh,CH006,2001-09-25,1,anh.mt@email.com,0934501234,Hà Nội,Đống Đa,Chùa Láng,999Y
+NV005CH001,Hoàng Văn Em,CH001,1997-05-10,0,em.hv@email.com,0955667788,TP. Hồ Chí Minh,Quận 10,3 Tháng 2,90E
+NV005CH002,Lý Văn Lộc,CH002,1993-02-28,0,loc.lv@email.com,0901122334,TP. Hồ Chí Minh,Tân Bình,Trường Chinh,55K
+NV005CH003,Lê Văn Tuấn,CH003,1994-09-11,0,tuan.lv@email.com,0989900112,TP. Hồ Chí Minh,Quận 1,Nam Kỳ Khởi Nghĩa,444S
+NV005CH006,Nguyễn Văn Bách,CH006,1996-02-14,0,bach.nv@email.com,0945012345,Hà Nội,Cầu Giấy,Duy Tân,101Z
+NV006CH002,Mai Thị Ngọc,CH002,1997-06-14,1,ngoc.mt@email.com,0912233445,TP. Hồ Chí Minh,Tân Phú,Thoại Ngọc Hầu,66L
+NV006CH003,Phạm Thị Uyên,CH003,1997-01-06,1,uyen.pt@email.com,0990011223,TP. Hồ Chí Minh,Quận 3,Võ Văn Tần,555T
+NV006CH006,Hồ Thị Chi,CH006,1999-06-30,1,chi.ht@email.com,0950123456,Hà Nội,Thanh Xuân,Nguyễn Tuân,112A1
+NV007CH002,Dương Minh Nhật,CH002,2002-10-01,0,nhat.dm@email.com,0923344556,TP. Hồ Chí Minh,Tân Phú,Nguyễn Sơn,77M
+NV007CH006,Kiều Văn Đức,CH006,1994-10-15,0,duc.kv@email.com,0961234567,Hà Nội,Cầu Giấy,Phạm Hùng,123B2
+NV008CH002,Phan Thị Oanh,CH002,1995-12-22,1,oanh.pt@email.com,0934455667,TP. Hồ Chí Minh,Quận 12,Nguyễn Ảnh Thủ,88N
+NV008CH006,Lâm Thị Giang,CH006,2000-03-05,1,giang.lt@email.com,0972345678,Hà Nội,Mỹ Đình,Lê Đức Thọ,134C3
+NV009CH006,Ngô Văn Hùng,CH006,1997-07-19,0,hung.nv@email.com,0983456789,Hà Nội,Hà Đông,Quang Trung,145D4
